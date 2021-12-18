@@ -89,7 +89,7 @@ TEMPLATES = [
 
 WSGI_APPLICATION = 'ToDoList.wsgi.application'
 
-SITE_ID=1
+SITE_ID=2
 
 # Database
 # https://docs.djangoproject.com/en/3.0/ref/settings/#databases
